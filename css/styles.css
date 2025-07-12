@@ -39,6 +39,9 @@ body {
 .header-navigation {
   display: flex;
   align-items: center;
+  position: relative;
+  transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  color: #404bbf;
 }
 .logo-main {
   margin-right: 76px;
@@ -50,8 +53,6 @@ body {
   text-transform: uppercase;
   color: #404bbf;
   text-decoration: none;
-  position: relative;
-  transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .logo-main::after {
