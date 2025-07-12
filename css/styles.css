@@ -338,3 +338,8 @@ h1 {
   height: 24;
   opacity: 1;
 }
+.icons {
+  width: 24;
+  height: 24;
+  background-color: #4d5ae5;
+}
