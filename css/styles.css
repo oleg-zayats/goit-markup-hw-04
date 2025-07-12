@@ -290,6 +290,7 @@ h1 {
   align-items: center;
   padding: 100px 0;
   background-color: #2e2f42;
+  flex-direction: row;
 }
 
 .logo {
@@ -330,14 +331,10 @@ h1 {
   color: #ffffff;
   width: 208;
   height: 80;
-  top: 3256px;
-
   opacity: 1;
 }
 .footer-media-text {
   width: 96;
   height: 24;
-  top: 3256px;
-
   opacity: 1;
 }
