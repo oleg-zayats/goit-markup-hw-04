@@ -295,7 +295,9 @@ h1 {
   height: 16px;
   fill: var(--cloud); /* #f4f4fd */
 }
-
+:root {
+  --cloud: #f4f4fd;
+}
 .team-name {
   line-height: 1.2;
   letter-spacing: 0.02em;
